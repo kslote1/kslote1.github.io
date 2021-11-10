@@ -5,7 +5,7 @@
 ### Data Driven Science Research
 
 [Gun Violence Map](https://github.com/kslote1/gun-violence-map)
- <iframe src="https://gun-map.herokuapp.com" title="Map of Gun violence in the U.S." height="315" width="560" allowfullscreen="" frameborder="0"></iframe> 
+ <iframe src="https://gun-map.herokuapp.com" title="Map of Gun violence in the U.S." height="600" width="950" allowfullscreen="" frameborder="0"></iframe> 
 
 ---
 [Brains and Behaviour Epilepsy Presentation](/pdf/bb_poster.pdf)
@@ -14,9 +14,7 @@
 ---
 [Twitter MTurk Survey](https://github.com/kslote1/twitter-survey-mturk)
 <img src="images/mturk-1.png?raw=true"/>
-<img src="images/mturk-2.png?raw=true"/>
-<img src="images/mturk-3.png?raw=true"/>
-
+<a href="https://mturk-irb-test.herokuapp.com/">Example Survey</a>
 
 ---
 
