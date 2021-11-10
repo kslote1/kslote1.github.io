@@ -2,28 +2,28 @@
 
 ---
 
-### Category Name 1 
+### Data Driven Science Research
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Gun Violence Map](https://github.com/kslote1/gun-violence-map)
+ <iframe src="https://gun-map.herokuapp.com" title="Map of Gun violence in the U.S."></iframe> 
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Brains and Behaviour Epilepsy Presentation](/pdf/bb_poster.pdf)
+<img src="images/anim-opt.gif?raw=true"/>
+
+---
+[Twitter MTurk Survey](https://github.com/kslote1/twitter-survey-mturk)
+<img src="images/mturk-1.png?raw=true"/>
+<img src="images/mturk-2.png?raw=true"/>
+<img src="images/mturk-3.png?raw=true"/>
+
 
 ---
 
-### Category Name 2
+### Pure Math Projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Redheffer Matrix](https://github.com/kslote1/Redheffer_matrix)
+- [Quantum Support Vector Machines](https://github.com/kslote1/quantum-svm)
 
 ---
 

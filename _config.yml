@@ -1,11 +1,13 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Kevin Slote # your name (or website title) here
+logo: "/images/logo2.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Kevin Slote is a Principal Data Scientist at Mimecast where he works as a researcher in A.I. Kevin continues academic involvment doin applied math and neuroscience research as a Ph.D. candidate in the <a href="https://math.gsu.edu/ibelykh/belykh_lab.html">Biological and Engineering Networks Lab. He works on predicting epilepsy based on networks of interacting neurona and uses similar techniques in cyber security. Kevin has a professional history doing machine learning in e-discovery and lives in Atlanta, Ga.
   <br><br>
-  Second description 
+  
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="www.linkedin.com/in/kevin-slote">LinkedIn Profile</a> 
+  <a href="https://github.com/kslote1">Github Profile</a>
+  <a href="https://math.stackexchange.com/users/95560/kslote1">Mathoverflow Profile</a>
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
