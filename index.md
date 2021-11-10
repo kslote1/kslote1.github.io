@@ -5,7 +5,7 @@
 ### Data Driven Science Research
 
 [Gun Violence Map](https://github.com/kslote1/gun-violence-map)
- <iframe src="https://gun-map.herokuapp.com/" title="Map of Gun violence in the U.S."></iframe> 
+ <iframe src="https://gun-map.herokuapp.com/"> title="Map of Gun violence in the U.S."></iframe> 
 
 ---
 [Brains and Behaviour Epilepsy Presentation](/pdf/bb_poster.pdf)
