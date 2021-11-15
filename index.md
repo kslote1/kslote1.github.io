@@ -2,12 +2,20 @@
 
 ---
 
-### Data Driven Science Research
+### Projects
 
-[Gun Violence Map](https://github.com/kslote1/gun-violence-map)
- <iframe src="https://gun-map.herokuapp.com" title="Map of Gun violence in the U.S." height="600" width="950" allowfullscreen="" frameborder="0"></iframe> 
+
+
+[Redheffer Matrix](https://github.com/kslote1/Redheffer_matrix)
+<img src="images/redheffer.png?raw=true"/>
 
 ---
+
+[Quantum Support Vector Machines](https://github.com/kslote1/quantum-svm)
+<img src="images/V.png?raw=true"/>
+
+---
+
 [Brains and Behaviour Epilepsy Presentation](/pdf/bb_poster.pdf)
 <img src="images/anim-opt.gif?raw=true"/>
 
@@ -17,14 +25,6 @@
 <a href="https://mturk-irb-test.herokuapp.com/">Example Survey</a>
 
 ---
-
-### Pure Math Projects
-
-- [Redheffer Matrix](https://github.com/kslote1/Redheffer_matrix)
-- [Quantum Support Vector Machines](https://github.com/kslote1/quantum-svm)
-
----
-
 
 
 
