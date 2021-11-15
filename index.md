@@ -12,7 +12,7 @@
 ---
 
 [Quantum Support Vector Machines](https://github.com/kslote1/quantum-svm)
-<img src="images/V.png?raw=true"/>
+<img src="images/Equivariant_commutative_diagram.png?raw=true"/>
 
 ---
 
