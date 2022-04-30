@@ -3,8 +3,12 @@
 ---
 
 ### Projects
+[Brownian Bridges](https://github.com/kslote1/brownian-bridge)
+<img src="images/bb.png?raw=true"/>
 
 
+[Finite Potential Wells](https://github.com/kslote1/finite-potential-well)
+<img src="images/fig_1_5.png?raw=true"/>
 
 [Redheffer Matrix](https://github.com/kslote1/Redheffer_matrix)
 <img src="images/redheffer.png?raw=true"/>
