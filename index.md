@@ -23,12 +23,13 @@
 [Brains and Behaviour Epilepsy Presentation](/pdf/bb_poster.pdf)
 <img src="images/anim-opt.gif?raw=true"/>
 
+<!-- 
 ---
 [Twitter MTurk Survey](https://github.com/kslote1/twitter-survey-mturk)
 <img src="images/mturk-1.png?raw=true"/>
 <a href="https://mturk-irb-test.herokuapp.com/">Example Survey</a>
 
----
+--- -->
 
 
 
