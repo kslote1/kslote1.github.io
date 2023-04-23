@@ -4,8 +4,7 @@
 
 ### Projects
 
-[Morris-Lecar Neuronal Model](https://github.com/kslote1/hopf-bifurcations/)
-<img src="https://github.com/kslote1/hopf-bifurcations/blob/main/animation1.gif">
+[Morris-Lecar Neuronal Model](https://raw.githubusercontent.com/kslote1/hopf-bifurcations/main/animation1.gif)
 
 [Bayesian T-Testing](https://github.com/kslote1/bayesian-t-test)
 <img src="images/bayesian-t-test.jpeg">
