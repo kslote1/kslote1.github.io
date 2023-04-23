@@ -7,6 +7,9 @@
 [Morris-Lecar Neuronal Model](https://github.com/kslote1/hopf-bifurcations/)
 <img src="https://github.com/kslote1/hopf-bifurcations/blob/main/animation1.gif">
 
+[Bayesian T-Testing](https://github.com/kslote1/bayesian-t-test)
+<img src="images/bayesian-t-test.jpeg">
+
 [Brownian Bridges](https://github.com/kslote1/brownian-bridge)
 <img src="images/bb.png?raw=true"/>
 
