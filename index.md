@@ -5,12 +5,15 @@
 ### Projects
 
 [Morris-Lecar Neuronal Model](https://github.com/kslote1/hopf-bifurcations)
+</br></br>
 <img src="https://raw.githubusercontent.com/kslote1/hopf-bifurcations/main/animation1.gif">
 
 [Bayesian T-Testing](https://github.com/kslote1/bayesian-t-test)
+</br></br>
 <img src="images/bayesian-t-test.jpeg">
 
 [Brownian Bridges](https://github.com/kslote1/brownian-bridge)
+</br></br>
 <img src="images/bb.png?raw=true"/>
 
 
