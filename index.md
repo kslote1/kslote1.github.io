@@ -30,6 +30,7 @@
 ---
 
 [Quantum Support Vector Machines](https://github.com/kslote1/quantum-svm)
+</br>
 <img src="images/Equivariant_commutative_diagram.png?raw=true"/>
 
 ---
@@ -40,7 +41,11 @@
 ---
 ## Publications
 
+### Pre-prints
 
+Unlocking Unlabeled Data: Ensemble Learning with the Hui- Walter Paradigm for Performance Estimation in Online and Static Settings
+Kevin Slote, Elaine Lee DOI: arXiv:2401.09376
+[Pre-print](https://arxiv.org/abs/2401.09376)
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
