@@ -3,6 +3,9 @@
 ---
 
 ### Projects
+[Matrix Theory: Field of Values/Numerical Range](https://github.com/kslote1/field-of-values)
+
+<img src="https://github.com/kslote1/field-of-values/raw/main/redheffer-animation.gif">
 
 [Morris-Lecar Neuronal Model](https://github.com/kslote1/hopf-bifurcations)
 
@@ -34,6 +37,8 @@
 [Brains and Behaviour Epilepsy Presentation](/pdf/bb_poster.pdf)
 <img src="images/anim-opt.gif?raw=true"/>
 
+---
+## Publications
 
 
 
