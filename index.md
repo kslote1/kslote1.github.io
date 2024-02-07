@@ -21,7 +21,7 @@
 
 [Bayesian T-Testing](https://github.com/kslote1/bayesian-t-test)
 
-<img src="images/bayesian-t-test.jpeg" style="width: 100%; height: auto;"> </br>
+<img src="images/bayesian-t-test.jpeg" style="width: 80%; height: auto;"> </br>
 
 </br></br>
 
@@ -30,7 +30,7 @@
 
 [Brownian Bridges](https://github.com/kslote1/brownian-bridge)
 
-<img src="images/bb.png?raw=true" style="width: 100%; height: auto;"></br>
+<img src="images/bb.png?raw=true" style="width: 80%; height: auto;"></br>
 
 </br></br>
 
@@ -54,7 +54,7 @@
 
 [Quantum Support Vector Machines](https://github.com/kslote1/quantum-svm)
 </br>
-<img src="images/Equivariant_commutative_diagram.png?raw=true" style="width: 100%; height: auto;"> </br>
+<img src="images/Equivariant_commutative_diagram.png?raw=true" style="width: 80%; height: auto;"> </br>
 
 
 </br></br>
@@ -70,7 +70,7 @@
 ---
 [Groupoid Reinforcement Learning](https://github.com/EleutherAI/groupoid-rl)
 
-<img src="images/15-puzzle_magical.svg.png" style="width: 100%; height: auto;"> </br>
+<img src="images/15-puzzle_magical.svg.png" style="width: 80%; height: auto;"> </br>
 
 
 </br></br>
