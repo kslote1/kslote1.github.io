@@ -46,6 +46,7 @@
 ---
 
 [Redheffer Matrix](https://github.com/kslote1/Redheffer_matrix)
+
 <img src="images/redheffer.png?raw=true"/>
 
 </br></br>
@@ -62,7 +63,7 @@
 ---
 
 [Brains and Behaviour Epilepsy Presentation](/pdf/bb_poster.pdf)
-<img src="images/anim-opt.gif?raw=true"/>
+<img src="images/anim-opt.gif?raw=true" style="width: 60%; height: auto;"> </br>
 
 
 </br></br>
@@ -70,7 +71,7 @@
 ---
 [Groupoid Reinforcement Learning](https://github.com/EleutherAI/groupoid-rl)
 
-<img src="images/15-puzzle_magical.svg.png" style="width: 80%; height: auto;"> </br>
+<img src="images/15-puzzle_magical.svg.png" style="width: 60%; height: auto;"> </br>
 
 
 </br></br>
