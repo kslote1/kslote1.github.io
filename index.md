@@ -17,12 +17,12 @@
 
 [Brownian Bridges](https://github.com/kslote1/brownian-bridge)
 
-<img src="images/bb.png?raw=true"/>
+<img src="images/bb.png?raw=true" style="width: 100%; height: auto;"></br>
 
 
 [Finite Potential Wells](https://github.com/kslote1/finite-potential-well)
 
-<img src="images/fig_1_5.png?raw=true"/>
+<img src="images/fig_1_5.png?raw=true" style="width: 100%; height: auto;"> </br>
 
 [Redheffer Matrix](https://github.com/kslote1/Redheffer_matrix)
 <img src="images/redheffer.png?raw=true"/>
@@ -41,7 +41,7 @@
 ---
 [Groupoid Reinforcement Learning](https://github.com/EleutherAI/groupoid-rl)
 
-
+<img src="images/15-puzzle_magical.svg.png">
 
 ---
 ## Publications
