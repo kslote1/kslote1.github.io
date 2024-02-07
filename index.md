@@ -39,6 +39,11 @@
 <img src="images/anim-opt.gif?raw=true"/>
 
 ---
+[Groupoid Reinforcement Learning](https://github.com/EleutherAI/groupoid-rl)
+
+
+
+---
 ## Publications
 
 ### Pre-prints
@@ -46,6 +51,16 @@
 Unlocking Unlabeled Data: Ensemble Learning with the Hui- Walter Paradigm for Performance Estimation in Online and Static Settings
 Kevin Slote, Elaine Lee DOI: arXiv:2401.09376
 [Pre-print](https://arxiv.org/abs/2401.09376)
+
+
+## Patents
+
+[Systems and Methods for Attacks, Countermeasures, Archiving, Data Leak Prevention, and Other Novel Services for Active Messages
+](https://patents.justia.com/patent/20220197997) ** Patent Pending
+
+## Presentations
+
+
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
