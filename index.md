@@ -95,7 +95,7 @@ Kevin Slote, Elaine Lee DOI: arXiv:2401.09376
 
 ### Posters
 
-<embed src="pdf/bb_poster.pdf" width="800px" height="2100px" />
+<embed src="pdf/bb_poster.pdf" />
 
 
 ---
