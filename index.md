@@ -93,7 +93,9 @@ Kevin Slote, Elaine Lee DOI: arXiv:2401.09376
 
 ## Presentations
 
+### Posters
 
+<iframe src="images/Doc1.html" style="width: 70%;"></iframe>
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
