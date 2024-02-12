@@ -95,6 +95,7 @@ Kevin Slote, Elaine Lee DOI: arXiv:2401.09376
 
 ### Posters
 
+[![Title](images/Doc1.html)](Link URL)
 <iframe src="images/Doc1.html" style="width: 70%;"></iframe>
 
 ---
