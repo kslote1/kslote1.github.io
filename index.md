@@ -2,6 +2,11 @@
 
 ---
 
+[Causation Entropy Library](https://github.com/Center-For-Complex-Systems-Science/causationentropy)
+[Documentation](https://causationentropy.readthedocs.io/)
+<img src="https://causationentropy.readthedocs.io/en/stable/_images/logo.jpeg" style="width: 100%; height: auto;"> </br>
+</br></br>
+
 ### Projects
 [Matrix Theory: Field of Values/Numerical Range](https://github.com/kslote1/field-of-values)
 
