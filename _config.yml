@@ -50,6 +50,11 @@ description: >
     "value": "Q125511795",
     "url": "https://www.wikidata.org/wiki/Q125511795"
   },
+  "subjectOf": [
+    "https://academic.oup.com/pnasnexus/article/4/6/pgaf195/8160866",
+    "https://phys.org/news/2025-07-mathematicians-reveal-factors-gun-sales.html",
+    "https://pubmed.ncbi.nlm.nih.gov/40583911/"
+  ],
   "knowsAbout": [
     "Applied Mathematics",
     "Causality",
