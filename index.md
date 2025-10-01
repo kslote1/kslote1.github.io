@@ -4,22 +4,20 @@
 
 [Causation Entropy Library](https://github.com/Center-For-Complex-Systems-Science/causationentropy)
 [Documentation](https://causationentropy.readthedocs.io/)
-<img src="https://causationentropy.readthedocs.io/en/stable/_images/logo.jpeg" style="width: 100%; height: auto;"> </br>
-</br></br>
+<img src="https://causationentropy.readthedocs.io/en/stable/_images/logo.jpeg" style="width: 50%; height: auto;"> </br>
 
-### Projects
+---
+
 [Matrix Theory: Field of Values/Numerical Range](https://github.com/kslote1/field-of-values)
 
 <img src="https://github.com/kslote1/field-of-values/raw/main/redheffer-animation.gif" style="width: 100%; height: auto;"> </br>
-</br></br>
+
 
 ---
 
 [Morris-Lecar Neuronal Model](https://github.com/kslote1/hopf-bifurcations)
 
 <img src="https://raw.githubusercontent.com/kslote1/hopf-bifurcations/main/animation1.gif">
-
-</br></br>
 
 
 ---
@@ -28,8 +26,6 @@
 
 <img src="images/bayesian-t-test.jpeg" style="width: 80%; height: auto;"> </br>
 
-</br></br>
-
 
 ---
 
@@ -37,7 +33,6 @@
 
 <img src="images/bb.png?raw=true" style="width: 80%; height: auto;"></br>
 
-</br></br>
 
 
 ---
@@ -46,7 +41,6 @@
 
 <img src="images/fig_1_5.png?raw=true"/>
 
-</br></br>
 
 ---
 
@@ -54,16 +48,14 @@
 
 <img src="images/redheffer.png?raw=true"/>
 
-</br></br>
 
 ---
 
 [Quantum Support Vector Machines](https://github.com/kslote1/quantum-svm)
-</br>
+
 <img src="images/Equivariant_commutative_diagram.png?raw=true" style="width: 80%; height: auto;"> </br>
 
 
-</br></br>
 
 ---
 
@@ -71,24 +63,24 @@
 <img src="images/anim-opt.gif?raw=true" style="width: 60%; height: auto;"> </br>
 
 
-</br></br>
-
 ---
 [Groupoid Reinforcement Learning](https://github.com/EleutherAI/groupoid-rl)
 
 <img src="images/15-puzzle_magical.svg.png" style="width: 60%; height: auto;"> </br>
 
 
-</br></br>
 
 ---
 ## Publications
 
-### Pre-prints
+How advocacy groups on Twitter and media coverage can drive US firearm acquisition: A causal study
+Kevin Slote, K Daley, R Succar, R Barak Ventura, M Porfiri, I Belykh
+PNAS nexus 4 (6), pgaf195
+[PNAS Nexus](https://academic.oup.com/pnasnexus/article/4/6/pgaf195/8160866)
 
-Unlocking Unlabeled Data: Ensemble Learning with the Hui- Walter Paradigm for Performance Estimation in Online and Static Settings
-Kevin Slote, Elaine Lee DOI: arXiv:2401.09376
-[Pre-print](https://arxiv.org/abs/2401.09376)
+Online Performance Estimation with Unlabeled Data: A Bayesian Application of the Hui-Walter Paradigm
+Kevin Slote, Elaine Lee Lecture Notes in Networks and Systems 1285, 529-553
+[Open Access](https://arxiv.org/abs/2401.09376)
 
 
 ## Patents
