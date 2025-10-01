@@ -1,3 +1,37 @@
+@import "{{ site.theme }}";
+
+@import "jekyll-theme-minimal";
+
+/* === Sidebar scroll & readability tweaks === */
+html, body { height: 100%; }
+
+.sidebar {
+  /* allow the sidebar itself to scroll */
+  overflow-y: auto;
+  /* make sure it never grows beyond the viewport height */
+  max-height: 100vh;
+  /* a little padding so the scrollbar doesn't overlap text */
+  padding-right: 6px;
+}
+
+/* Long descriptions with lots of links — improve wrapping */
+.sidebar p, .sidebar a {
+  word-break: break-word;
+  overflow-wrap: anywhere;
+}
+
+/* Logo sizing — prevents giant images from pushing content offscreen */
+.sidebar img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* Optional: make the right content area breathe a bit on narrow screens */
+@media (max-width: 860px) {
+  .sidebar { max-height: 40vh; }
+}
+
 img {
     width: 100%;
     height: auto;
