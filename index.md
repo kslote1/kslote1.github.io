@@ -1,8 +1,8 @@
 ## Recent Media
 
 <a href="https://www.siam.org/publications/siam-news/articles/optimal-causation-entropy-for-the-next-generation/" target="_blank" rel="noopener noreferrer" style="display:block; max-width:480px; text-decoration:none; color:inherit; background:#ffffff; border:1px solid rgba(0,0,0,0.12); border-radius:12px; overflow:hidden; font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;">
-  <div style="height:140px; background:#f5f4ee; display:flex; align-items:center; justify-content:center; border-bottom:1px solid rgba(0,0,0,0.08);">
-    <svg viewBox="0 0 200 100" style="width:70%; height:70%;" aria-hidden="true">
+  <span style="display:block; height:140px; background:#f5f4ee; text-align:center; border-bottom:1px solid rgba(0,0,0,0.08); line-height:140px;">
+    <svg viewBox="0 0 200 100" style="width:70%; height:70%; vertical-align:middle;" aria-hidden="true">
       <line x1="40" y1="30" x2="100" y2="55" stroke="#999" stroke-width="1"/>
       <line x1="100" y1="20" x2="100" y2="55" stroke="#999" stroke-width="1"/>
       <line x1="160" y1="35" x2="100" y2="55" stroke="#999" stroke-width="1"/>
@@ -17,20 +17,21 @@
       <circle cx="140" cy="80" r="8" fill="#EF9F27"/>
       <circle cx="100" cy="55" r="9" fill="#5F5E5A"/>
     </svg>
-  </div>
-  <div style="padding:14px 18px 16px;">
-    <div style="display:flex; align-items:center; gap:6px; font-size:12px; color:#6b6b6b; text-transform:uppercase; letter-spacing:0.04em; margin-bottom:8px;">
-      <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M3.6 9h16.8M3.6 15h16.8M12 3a14 14 0 0 1 0 18M12 3a14 14 0 0 0 0 18"/></svg>
-      <span>siam.org</span><span style="opacity:0.5;">·</span><span>SIAM News</span>
-    </div>
-    <p style="font-size:16px; font-weight:500; line-height:1.4; color:#1a1a1a; margin:0 0 6px;">Optimal Causation Entropy for the Next Generation</p>
-    <p style="font-size:13px; line-height:1.5; color:#6b6b6b; margin:0 0 12px;">An overview of optimal causation entropy (oCSE) — an information-theoretic method for inferring causal networks from time series data, distinguishing direct from indirect influences.</p>
-    <div style="display:flex; align-items:center; gap:6px; font-size:12px; color:#999;">
-      <span>Open article</span>
-      <svg viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><path d="M15 3h6v6"/><path d="M10 14L21 3"/></svg>
-    </div>
-  </div>
+  </span>
+  <span style="display:block; padding:14px 18px 16px;">
+    <span style="display:block; font-size:12px; color:#6b6b6b; text-transform:uppercase; letter-spacing:0.04em; margin-bottom:8px;">
+      <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:-2px; margin-right:4px;" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M3.6 9h16.8M3.6 15h16.8M12 3a14 14 0 0 1 0 18M12 3a14 14 0 0 0 0 18"/></svg>
+      siam.org <span style="opacity:0.5;">·</span> SIAM News
+    </span>
+    <span style="display:block; font-size:16px; font-weight:500; line-height:1.4; color:#1a1a1a; margin:0 0 6px;">Optimal Causation Entropy for the Next Generation</span>
+    <span style="display:block; font-size:13px; line-height:1.5; color:#6b6b6b; margin:0 0 12px;">An overview of optimal causation entropy (oCSE) — an information-theoretic method for inferring causal networks from time series data, distinguishing direct from indirect influences.</span>
+    <span style="display:block; font-size:12px; color:#999;">
+      Open article
+      <svg viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:-2px; margin-left:2px;" aria-hidden="true"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><path d="M15 3h6v6"/><path d="M10 14L21 3"/></svg>
+    </span>
+  </span>
 </a>
+
 
 ## Projects
 
