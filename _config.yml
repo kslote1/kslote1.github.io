@@ -1,13 +1,13 @@
 title: Kevin Slote # your name (or website title) here
 logo: "/images/me2.jpg?raw=true" # your photo (or logo) here
 description: >
-  Research Fellow Clarkson University </br>
+  Research Associate <a href="https://www.clarkson.edu/academics/research/labs-centers/c3s2"> Clarkson Center for Complex Systems Science </a> </br>
   Ph.D. Georgia State University </br>
-  Pure Math: Algebraic Geometry masters degree. </br>
-  Generative AI: Transformers, LLMs. </br>
+  Generative AI: Transformers, LLMs, Agentic AI. </br>
   Math: computational topology, dynamical systems, causal models. </br>
 
   <br><br>
+  <a href="https://www.clarkson.edu/people/kevin-slote">Clarkson Website</a> </br>
   <a href="www.linkedin.com/in/kevin-slote">LinkedIn Profile</a> </br>
   <a href="https://math.stackexchange.com/users/95560/kslote1">Mathoverflow Profile</a></br>
   <a href="https://sites.google.com/view/kevin-slote">Academic Professional Website</a></br>
@@ -42,7 +42,8 @@ description: >
     "https://scholar.google.com/citations?user=Otx9t8IAAAAJ&hl",
     "https://github.com/kslote1",
     "https://www.linkedin.com/in/kevin-slote",
-    "https://www.youtube.com/@KevinSloteMathResearch"
+    "https://www.youtube.com/@KevinSloteMathResearch",
+    "https://www.clarkson.edu/people/kevin-slote"
   ],
   "identifier": {
     "@type": "PropertyValue",
