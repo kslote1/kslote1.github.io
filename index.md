@@ -1,5 +1,7 @@
 ## Recent Media
 
+[AJC Op-Ed](https://www.ajc.com/opinion/2026/08/opinion-data-center-fatigue-repurpose-ai-to-solve-the-problems-it-creates/)
+
 [![Watch the video](https://img.youtube.com/vi/ykVW7PDEGoQ/hqdefault.jpg)](https://www.youtube.com/watch?v=ykVW7PDEGoQ)
 
 [KANDy press release](https://clarkson.edu/news-events/clarkson-researchers-develop-ai-tool-finds-equations-behind-complex-systems)
